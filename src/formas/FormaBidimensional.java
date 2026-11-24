@@ -1,3 +1,5 @@
+package formas;
+
 import java.awt.Color;
 
 public abstract class FormaBidimensional extends Forma {
